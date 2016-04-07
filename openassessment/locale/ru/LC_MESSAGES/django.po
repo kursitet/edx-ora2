@@ -2087,3 +2087,13 @@ msgstr "Количество лучших ответов задано невер
 #: openassessment/xblock/validation.py:404
 msgid "The submission format is invalid."
 msgstr "Неправильный формат ответа."
+
+#: openassessment/templates/openassessmentblock/staff_area/staff_area.html:7
+msgid "Staff Info"
+msgstr "Информация для персонала"
+
+#: openassessment/templates/openassessmentblock/staff_area/staff_area.html:13
+msgid "Course Staff Tools"
+msgstr "Инструменты персонала"
+
+
