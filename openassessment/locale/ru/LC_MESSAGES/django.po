@@ -2104,3 +2104,49 @@ msgstr "Инструменты персонала"
 msgid "Course Staff Information"
 msgstr "Информация для перонала курса"
 
+#: openassessment/templates/openassessmentblock/response/oa_response.html:102
+msgid "Save Your Progress"
+msgstr "Сохраните свою работу"
+
+#: openassessment/templates/openassessmentblock/message/oa_message_peer.html:10
+#: openassessment/templates/openassessmentblock/message/oa_message_self.html:8
+msgid "Your Response Has Been Submitted For Peer Assessment"
+msgstr "Ваш ответ отправлен на взаимное оценивание"
+
+#: openassessment/templates/openassessmentblock/message/oa_message_peer.html:25
+#, python-format
+msgid ""
+"\n"
+"                          You'll receive your grade after you complete the "
+"%(peer_start_tag)speer assessment%(end_tag)s and %(self_start_tag)sself "
+"assessment%(end_tag)s steps, and after your peers have assessed your "
+"response.\n"
+"                    "
+msgstr "\nВы получите оценку, когда завершите шаги %(peer_start_tag)sвзаимного оценивания%(end_tag)s и %(self_start_tag)sоценивания своего ответа%(end_tag)s, а сокурсники оценят Ваш ответ.\n                    "
+
+#: openassessment/templates/openassessmentblock/message/oa_message_peer.html:29
+#, python-format
+msgid ""
+"\n"
+"                        You'll receive your grade after you complete the "
+"%(start_tag)speer assessment%(end_tag)s step.\n"
+"                    "
+msgstr "\nВы получите оценку после завершения шага %(start_tag)sвзаимного оценивания%(end_tag)s.\n                    "
+
+#: openassessment/templates/openassessmentblock/edit/oa_edit.html:160
+msgid ""
+"In this assignment, you can include steps for learner training, peer "
+"assessment, self assessment, and example based assessment. Select the steps "
+"that you want below, and then drag them into the order that you want. If you "
+"include an example based assessment step, it must precede all other steps. "
+"If you include a learner training step, it must precede peer and self "
+"assessment steps."
+msgstr "В  данном задании Вы можете настроить шаги Обучение студентов, Взаимное оценивание, Оценивание своего ответа и Автоматизированное оценивание. Выберите необходимые шаги ниже, а затем перетаскиванием установите желаемый порядок. При использовании шага Автоматизированное оценивание он должен предварять все остальные шаги. При использовании шага Обучение студентов он должен предварять шаги Взаимное оценивание и Оценивание своего ответа."
+
+#: openassessment/templates/openassessmentblock/edit/oa_edit.html:162
+msgid ""
+"In this assignment, you can include steps for learner training, peer "
+"assessment, and self assessment. Select the steps that you want below, and "
+"then drag them into the order that you want. If you include a learner "
+"training step, it must precede all other steps."
+msgstr "В данном задании Вы можете настроить шаги Обучение студентов, Взаимное оценивание и Оценивание своего ответа. Выберите необходимыешаги ниже, а затем перетаскиванием установите желаемый порядок. При использовании шага Обучение студентов он должен предварять все остальные шаги."
