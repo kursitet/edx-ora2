@@ -2096,4 +2096,11 @@ msgstr "Информация для персонала"
 msgid "Course Staff Tools"
 msgstr "Инструменты персонала"
 
+#: openassessment/templates/openassessmentblock/staff_area/staff_area.html:6
+msgid "Staff Tools"
+msgstr "Инструменты персонала"
+
+#: openassessment/templates/openassessmentblock/staff_area/staff_area.html:86
+msgid "Course Staff Information"
+msgstr "Информация для перонала курса"
 
